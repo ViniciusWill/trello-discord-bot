@@ -1,3 +1,4 @@
 .env
 cartoes_vistos.json
 __pycache__/
+*.pyc
